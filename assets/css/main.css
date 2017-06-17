@@ -3012,7 +3012,7 @@
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		min-height: 22.5em;
+		min-height: 30.5em;
 	}
 
 		body.is-ie .spotlights > section {
@@ -3262,6 +3262,7 @@
 
 		.wrapper.style2 {
 			background-color: #5052b5;
+			height: calc(80vh - 2.5em)
 		}
 
 		.wrapper.style2-alt {
